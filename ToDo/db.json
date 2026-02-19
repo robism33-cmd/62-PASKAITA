@@ -1,0 +1,24 @@
+{
+  "autos": [
+    {
+      "id": "ef13",
+      "text": "Padaryti pietus",
+      "completed": true
+    },
+    {
+      "id": "703d",
+      "text": "Nupirkti vandens",
+      "completed": true
+    },
+    {
+      "id": "3ae2",
+      "text": "Nupirkti desros",
+      "completed": false
+    },
+    {
+      "id": "aff9",
+      "text": "Padaryti pietus",
+      "completed": true
+    }
+  ]
+}

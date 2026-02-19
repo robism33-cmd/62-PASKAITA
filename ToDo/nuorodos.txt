@@ -1,0 +1,19 @@
+https://www.npmjs.com/package/json-server
+npm install -g json-server
+
+Usage: json-server [options] <file>
+
+Options:
+  -p, --port <port>  Port (default: 3000)
+  -h, --host <host>  Host (default: localhost)
+  -s, --static <dir> Static files directory (multiple allowed)
+  --help             Show this message
+  --version          Show version number
+  sudo npm install -g json-server
+
+json-server --watch db.json --port 3000
+uždarymas ctrl x;
+
+
+Užduotis:
+https://classroom.google.com/u/2/w/ODA3OTUyMjk0NzY4/tc/ODMyMDM4MzMwOTY3
