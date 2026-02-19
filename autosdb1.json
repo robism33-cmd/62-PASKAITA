@@ -1,0 +1,52 @@
+{
+  "autos": [
+    {
+      "id": "1",
+      "Gamintojas": "Tesla",
+      "Modelis": "Model S",
+      "Metai": "2024",
+      "Spalva": "Balta",
+      "Nuotrauka URL": "https://i.pinimg.com/736x/05/ea/6d/05ea6d3c92e9f11365ec3c8925f0ecec.jpg"
+    },
+    {
+      "id": "2",
+      "Gamintojas": "Volvo",
+      "Modelis": "Model A",
+      "Metai": "2023",
+      "Spalva": "Raudona",
+      "Nuotrauka URL": "https://i.pinimg.com/1200x/13/8f/06/138f0675237eec3563d1475ec63f7262.jpg"
+    },
+    {
+      "id": "3",
+      "Gamintojas": "Porshe",
+      "Modelis": "Model C",
+      "Metai": "2022",
+      "Spalva": "Juoda",
+      "Nuotrauka URL": "https://i.pinimg.com/1200x/c1/bd/eb/c1bdebc4936ebe7477740f5287e93077.jpg"
+    },
+    {
+      "id": "4",
+      "Gamintojas": "BMW",
+      "Modelis": "Model D",
+      "Metai": "2020",
+      "Spalva": "Balta",
+      "Nuotrauka URL": "https://i.pinimg.com/736x/05/7c/55/057c555c7b7de0862989a3b6207e0d6d.jpg"
+    },
+    {
+      "id": "85fa",
+      "Gamintojas": "Tesla",
+      "Modelis": "Model S",
+      "Metai": "2024",
+      "Spalva": "Balta",
+      "Nuotrauka URL": "https://i.pinimg.com/736x/05/ea/6d/05ea6d3c92e9f11365ec3c8925f0ecec.jpg"
+    },
+    {
+      "id": "8533",
+      "Gamintojas": "BMW",
+      "Modelis": "B7",
+      "Metai": "2022",
+      "Spalva": "MĖLYNA",
+      "Nuotrauka URL": "https://i.pinimg.com/736x/5d/b2/eb/5db2eb89e2df3a41802c0473eeb59b1d.jpg"
+    }
+  ]
+}
