@@ -1,0 +1,36 @@
+{
+  "autos": [
+    {
+      "id": "1",
+      "Gamintojas": "Tesla",
+      "Modelis": "Model S",
+      "Metai": "2024",
+      "Spalva": "Balta",
+      "Nuotrauka URL": "https://i.pinimg.com/736x/05/ea/6d/05ea6d3c92e9f11365ec3c8925f0ecec.jpg"
+    },
+    {
+      "id": "2",
+      "producer": "Volvo",
+      "model": "Model A",
+      "year": "2023",
+      "color": "Raudona",
+      "imgURL": "https://i.pinimg.com/736x/05/ea/6d/05ea6d3c92e9f11365ec3c8925f0ecec.jpg"
+    },
+    {
+      "id": "3",
+      "producer": "Porshe",
+      "model": "Model C",
+      "year": "2022",
+      "color": "Juoda",
+      "imgURL": "https://i.pinimg.com/736x/05/ea/6d/05ea6d3c92e9f11365ec3c8925f0ecec.jpg"
+    },
+    {
+      "id": "4",
+      "producer": "BMW",
+      "model": "Model D",
+      "year": "2020",
+      "color": "Balta",
+      "imgURL": "https://i.pinimg.com/736x/05/ea/6d/05ea6d3c92e9f11365ec3c8925f0ecec.jpg"
+    }
+  ]
+}
